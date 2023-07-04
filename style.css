@@ -23,7 +23,12 @@ body {
     font-size: 55px;
     color: white;
 }
-.armswo {
+.othertitle2 {
+  margin-top: 25px;
+  font-size: 45px;
+  color: white;
+}
+.allwo {
     border: 3px solid rgb(255, 227, 70);
     background-color: rgb(27, 30, 56);
     color: white;
@@ -32,7 +37,7 @@ body {
 }
 .wrkimg {
     border: 3px solid rgb(255, 227, 70);
-    width: 300px;
+    width: 150px;
 }
 .dayofweek {
     border: 3px solid rgb(255, 227, 70);
@@ -129,4 +134,13 @@ body {
   }
   .myClass27 {
     background-color: rgb(83, 218, 83);
+  }
+  .backbutton {
+    border: solid rgb(255, 227, 70) 5px;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    font-size: 35px;
+    color: white;
+    padding: 10px;
   }
